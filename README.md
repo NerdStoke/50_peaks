@@ -7,7 +7,7 @@ Here is his [Notebook version](https://github.com/rhiever/Data-Analysis-and-Mach
 
 ...just made some minor tweaks and made it into an executable instead of a notebook
 
-Distances are already calculated, but if you want to create new ones, get and API key from Google maps and add it in the `main.py` script.
+Distances are already calculated, but if you want to create new ones, get an API key from Google maps and add it in the `main.py` script.
 
 With the data provided, the algorithm will solve the Travelling Salesman Problem without returning to the origin. 
 I did this by just adding a dummy "Start" location that has a distance/duration of 0 to all other locations.
