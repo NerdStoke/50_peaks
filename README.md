@@ -1,10 +1,9 @@
 # 50_peaks
 Quick algorithm and the requisite data for calculating the fastest drive to the peaks/trail-heads of the tallest point in each state
 
-Ripped this off from Randal Olson:
-http://randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/
+Ripped this off from [Randal Olson](http://randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s)
 
-https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/optimal-road-trip/Computing%20the%20optimal%20road%20trip%20across%20the%20U.S..ipynb
+Here is his [Notebook version](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/optimal-road-trip/Computing%20the%20optimal%20road%20trip%20across%20the%20U.S..ipynb)
 
 ...just made some minor tweaks and made it into an executable instead of a notebook
 
